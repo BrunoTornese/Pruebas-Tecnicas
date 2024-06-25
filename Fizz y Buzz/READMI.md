@@ -1,0 +1,1 @@
+Escribe una función que imprima los números del 1 al N, donde N es un número entero positivo que se pasa como argumento a la función. Sin embargo, para los múltiplos de 3, en lugar de imprimir el número, imprime "Fizz". Para los múltiplos de 5, imprime "Buzz". Para los números que son múltiplos de ambos 3 y 5, imprime "FizzBuzz".
