@@ -3,3 +3,5 @@ Escribe una función en JavaScript llamada factorial que reciba un número enter
 Escribe una función en JavaScript llamada invertirCadena que reciba una cadena de texto y retorne la cadena invertida.
 
 Escribe una función en JavaScript llamada filtrarPares que reciba un array de números y retorne un nuevo array que solo contenga los números pares.
+
+Escribe un programa en TypeScript que genere y muestre la serie de Fibonacci hasta un número dado, donde la serie de Fibonacci es una secuencia de números en la que cada número es la suma de los dos números anteriores, comenzando con 0 y 1.
